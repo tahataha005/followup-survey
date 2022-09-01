@@ -80,3 +80,15 @@ textarea{
     height: 300px;
     text-align: top;
 }
+
+.button{
+    margin-top: 10px;
+    align-self: center;
+    height: 40px;
+    width: 90px;
+    background-color: maroon;
+    border-color: firebrick;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(199, 199, 199)
+}
